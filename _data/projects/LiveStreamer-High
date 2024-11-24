@@ -1,0 +1,17 @@
+name: LiveStreamer High
+desc: A modern WebRTC-based live streaming platform with real-time screen sharing, ultra-low latency, and no setup required.
+site: https://live-streamer-high.vercel.app
+
+tags:
+  - webrtc
+  - live-streaming
+  - real-time
+  - screen-sharing
+  - low-latency
+  - browser-based
+  - cross-platform
+  - encrypted
+
+upforgrabs:
+  name: good first issue
+  link: https://github.com/MaheshSharan/LiveStreamer-High/labels/good%20first%20issue
